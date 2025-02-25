@@ -1,0 +1,4 @@
+sounddevice
+customtkinter
+amazon-transcribe
+requests
